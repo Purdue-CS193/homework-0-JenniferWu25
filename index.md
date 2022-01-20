@@ -18,6 +18,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Fav Things: 
 - the memes on the presentations
 - open environment of classroom 
 
